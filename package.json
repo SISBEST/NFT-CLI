@@ -1,0 +1,26 @@
+{
+  "name": "nft-cli",
+  "version": "1.0.0",
+  "description": "Nut-Free Table CLI For Internal Use Only",
+  "bin": {
+    "nutfree": "index.js"
+  },
+  "scripts": {
+    "start": "nutfree"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SISBEST/NFT-CLI.git"
+  },
+  "author": "Samuel Sharp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SISBEST/NFT-CLI/issues"
+  },
+  "homepage": "https://github.com/SISBEST/NFT-CLI#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "commander": "^5.1.0",
+    "inquirer": "^7.3.0"
+  }
+}
